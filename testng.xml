@@ -3,7 +3,7 @@
 <suite name="Suite" thread-count="1">
   <test name="Assignment">
     <classes>
-      <class name="testCases.VerifyGmailFunctionalityAssignment"/>      
+      <class name="testCases.VerifyPaymentProcessingViaCreditCard"/>      
     </classes>
   </test> <!-- Test -->
   

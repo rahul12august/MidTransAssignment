@@ -11,7 +11,7 @@ import utility.Utils;
  * First: Successful Purchase of pillow using credit card as payment option.
  * Second: Unsuccessful purchase of pillow using credit card as payment option.
  */
-public class VerifySuccessfulPaymentProcessingViaCreditCard extends TestSetUp{
+public class VerifyPaymentProcessingViaCreditCard extends TestSetUp{
 	
 	/**
 	 * Below test will purchase pillow using default quantity and price.
