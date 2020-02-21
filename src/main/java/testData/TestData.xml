@@ -1,0 +1,17 @@
+<TestDataForGmail>
+	<BasedOnFunctionality>
+		<Generic>
+			<name>Rahul Tiwari</name>
+			<password>112233</password>
+			<email>abc@abc.com</email>
+			<city>Chennai</city>
+			<address>Madipakkam</address>
+			<pincode>600091</pincode>
+			<phone>09797979797</phone>
+			<cardNumber>4811111111111114</cardNumber>
+			<invalidCardNumber>4911111111111113</invalidCardNumber>
+			<expiryDate>0220</expiryDate>
+			<cvv>123</cvv>
+		</Generic>
+	</BasedOnFunctionality>
+</TestDataForGmail>
