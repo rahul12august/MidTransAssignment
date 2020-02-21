@@ -14,10 +14,10 @@
     <protocol>https</protocol>
     
     <!-- title of the document -->
-    <documentTitle>Test For Gmail</documentTitle>
+    <documentTitle>Mid Trans Automation</documentTitle>
     
     <!-- report name - displayed at top-nav -->
-    <reportName>Gmail Automation report</reportName>
+    <reportName>Mid Trans Automation report</reportName>
     
     <!-- report headline - displayed at top-nav, after reportHeadline -->
     <reportHeadline>Automation Report</reportHeadline>
